@@ -1,0 +1,11 @@
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+C:\oss_OpenAI_Proxy\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
